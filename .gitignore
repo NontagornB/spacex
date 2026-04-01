@@ -61,3 +61,6 @@ xcuserdata/
 .gradle/
 local.properties
 **/GeneratedPluginRegistrant.java
+
+# vscode config
+.vscode/
