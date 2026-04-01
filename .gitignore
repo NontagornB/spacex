@@ -41,3 +41,23 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# FVM Version Cache
+.fvm/
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/ServiceDefinitions.json
+ios/.generated/
+*.xcworkspace
+xcuserdata/
+
+# Android related
+.gradle/
+local.properties
+**/GeneratedPluginRegistrant.java
